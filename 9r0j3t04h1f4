@@ -16,3 +16,25 @@
 * vlans
 - https://www.cisco.com/c/en/us/td/docs/switches/lan/catalyst4500/12-2/25ew/configuration/guide/conf/vlans.html
 
+
+* 0X1
+
+- https://jhalon.github.io/pentestit-lab-11-crm-token/
+
+  +  Fingerprinting the Public Facing Devices
+  +  Carrying out Intelligence Gathering
+  +  Brute Forcing CRM
+  +  Exploiting an Authenticated Remote Code Execution Vulnerability
+  +  Finding the CRM Token
+  
+  # The Penetration Testing Execution Standard 
+  - http://www.pentest-standard.org/index.php/Main_Page
+  
+  # The Hacker Playbook 2: Practical Guide To Penetration Testing
+  - https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing/dp/1512214566
+  # Hacking Exposed 7: Network Security Secrets and Solutions
+  - https://www.amazon.com/Hacking-Exposed-Network-Security-Solutions/dp/0071780289/
+  # Network Security Assessment: Know Your Network
+  - https://www.amazon.com/Network-Security-Assessment-Know-Your/dp/0596510306
+  # The Web Application Hacker’s Handbook: Finding and Exploiting Security Flaws
+  - https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470
